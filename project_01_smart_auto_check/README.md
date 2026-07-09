@@ -22,12 +22,12 @@
 ### 1. Conceptual Data Model (MCD)
 The relational system's conceptual abstraction highlights business rules, cardinalities, and entity definitions:
 
-![MCD Diagram](./MCD.png)
+![MCD Diagram](./MCD.jpeg)
 
 ### 2. Logical Data Model (MLD)
 The structured relational transformation optimizing keys, dependencies, and entity mappings:
 
-![MLD Diagram](./MLD.png)
+![MLD Diagram](./MLD.jpeg)
 
 ---
 
