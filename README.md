@@ -1,3 +1,4 @@
+
 # BDR-Practice 🗄️
 
 Welcome to my Database Design and Relational Databases (BDR) practice repository. This repository serves as a portfolio of my learning journey, where I document various database concepts, conceptual models, and SQL implementations.
@@ -15,6 +16,7 @@ For each project or exercise in this repository, you will find:
 
 The projects are organized sequentially. Each folder contains its own dedicated explanation and assets:
 
+* **[project_01_smart_auto_check](./project_01_smart_auto_check):** SmartAutoCheck — An enterprise-grade database design for an Automotive Technical Inspection Center, managing clients, vehicle records, appointments, and dynamic diagnostic reports.
 
 ---
 
@@ -31,4 +33,3 @@ The projects are organized sequentially. Each folder contains its own dedicated 
 * Master data normalization and relationship mapping.
 * Write clean, optimized, and constraint-driven SQL schemas.
 * Document technical workflows professionally for future real-world projects.
-
